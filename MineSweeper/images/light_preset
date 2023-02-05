@@ -1,0 +1,16 @@
+Number of lights: 3
+Type: Point
+Position: -0.37208333333333332 -0.46152777777777765 1
+Direction: 12.299999999999972 -7.0999999999999917 1.3877787807814457e-016
+Color: 1 1 1
+Intensity: 1
+Type: Point
+Position: -0.50624999999999987 -0.50624999999999987 1
+Direction: 0 0 1
+Color: 1 1 1
+Intensity: 1
+Type: Point
+Position: -0.58000000000000007 -0.40367346938775506 1
+Direction: 0 0 1
+Color: 1 1 1
+Intensity: 1
